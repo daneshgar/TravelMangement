@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\TravelMangement.shared.Abstractions\TravelMangement.shared.Abstractions.csproj" />
-  </ItemGroup>
-
 </Project>

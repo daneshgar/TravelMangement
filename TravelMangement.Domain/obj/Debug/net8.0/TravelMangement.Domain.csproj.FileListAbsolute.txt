@@ -1,0 +1,16 @@
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\bin\Debug\net8.0\TravelMangement.Domain.deps.json
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\bin\Debug\net8.0\TravelMangement.Domain.dll
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\bin\Debug\net8.0\TravelMangement.Domain.pdb
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\obj\Debug\net8.0\TravelMangement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\obj\Debug\net8.0\TravelMangement.Domain.AssemblyInfoInputs.cache
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\obj\Debug\net8.0\TravelMangement.Domain.AssemblyInfo.cs
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\obj\Debug\net8.0\TravelMangement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\obj\Debug\net8.0\TravelMangement.Domain.sourcelink.json
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\obj\Debug\net8.0\TravelMangement.Domain.dll
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\obj\Debug\net8.0\refint\TravelMangement.Domain.dll
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\obj\Debug\net8.0\TravelMangement.Domain.pdb
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\obj\Debug\net8.0\ref\TravelMangement.Domain.dll
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\bin\Debug\net8.0\TravelMangement.shared.Abstractions.dll
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\bin\Debug\net8.0\TravelMangement.shared.Abstractions.pdb
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\obj\Debug\net8.0\TravelMangement.Domain.csproj.AssemblyReference.cache
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.Domain\obj\Debug\net8.0\TravelMa.4409366B.Up2Date

@@ -1,0 +1,12 @@
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.shared.Abstractions\bin\Debug\net8.0\TravelMangement.shared.Abstractions.deps.json
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.shared.Abstractions\bin\Debug\net8.0\TravelMangement.shared.Abstractions.dll
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.shared.Abstractions\bin\Debug\net8.0\TravelMangement.shared.Abstractions.pdb
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.shared.Abstractions\obj\Debug\net8.0\TravelMangement.shared.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.shared.Abstractions\obj\Debug\net8.0\TravelMangement.shared.Abstractions.AssemblyInfoInputs.cache
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.shared.Abstractions\obj\Debug\net8.0\TravelMangement.shared.Abstractions.AssemblyInfo.cs
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.shared.Abstractions\obj\Debug\net8.0\TravelMangement.shared.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.shared.Abstractions\obj\Debug\net8.0\TravelMangement.shared.Abstractions.sourcelink.json
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.shared.Abstractions\obj\Debug\net8.0\TravelMangement.shared.Abstractions.dll
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.shared.Abstractions\obj\Debug\net8.0\refint\TravelMangement.shared.Abstractions.dll
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.shared.Abstractions\obj\Debug\net8.0\TravelMangement.shared.Abstractions.pdb
+C:\Users\shabani\source\repos\TravelMangement\TravelMangement.shared.Abstractions\obj\Debug\net8.0\ref\TravelMangement.shared.Abstractions.dll

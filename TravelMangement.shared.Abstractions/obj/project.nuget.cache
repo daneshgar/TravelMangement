@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "28Sfei6gwW8=",
+  "dgSpecHash": "jNlyS92k0pw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\shabani\\source\\repos\\TravelMangement\\TravelMangement.Domain\\TravelMangement.Domain.csproj",
+  "projectFilePath": "C:\\Users\\shabani\\source\\repos\\TravelMangement\\TravelMangement.shared.Abstractions\\TravelMangement.shared.Abstractions.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
