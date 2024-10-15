@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelMangement.shared.Abstractions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ecf2977a102588e57c09ea696633d1dca861816")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f30453aab148e70c0fef8cc22e177eac1bafcd5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TravelMangement.shared.Abstractions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelMangement.shared.Abstractions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

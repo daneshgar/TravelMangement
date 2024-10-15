@@ -1,16 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using TravelMangement.Domain.ValueObjects;
 
 namespace TravelMangement.Domain.Entities
 {
     internal class TravelCheckList
     {
-        public Guid Id { get; set; }
-        public string  Name { get; set; }
-        public string Destination { get; set; }
+        public TravelCheckList(TravelCheckListId id,
+             TravelCheckListName name,
+             Destination  destination)
+        {
+            Id = id;
+            Name = name; 
+            Destination = destination;
 
+        }
+
+        public TravelCheckListId Id { get;  set; }
+        public TravelCheckListName  Name { get; set; }
+        public Destination Destination { get; set; }
+
+        
     }
 }

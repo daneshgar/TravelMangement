@@ -9,7 +9,7 @@ namespace TravelMangement.Domain.Exceptions
 {
     public class TravelCheckListIdException : TravelCheckListEception
     {
-        public TravelCheckListIdException() : base("error : Id")
+        public TravelCheckListIdException() : base("error : TravelCheckListId cannot be Empty")
         {
         }
     }

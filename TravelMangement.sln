@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelMangement.Domain", "TravelMangement.Domain\TravelMangement.Domain.csproj", "{B9EDF2C6-58D7-4D84-87D1-331B09CCD75F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelMangement.shared.Abstractions", "TravelMangement.shared.Abstractions\TravelMangement.shared.Abstractions.csproj", "{0D449686-BE69-47DC-BFBE-30D3E98DC929}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelMangement.shared.Abstractions", "TravelMangement.shared.Abstractions\TravelMangement.shared.Abstractions.csproj", "{0D449686-BE69-47DC-BFBE-30D3E98DC929}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
